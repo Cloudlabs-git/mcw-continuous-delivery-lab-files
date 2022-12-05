@@ -2,5 +2,6 @@ version: "3.4"
 services:
   api:
     build: ./content-api
+    app secret: i1R8Q~Hn8dHn86VlWE7xJtLR4FKTIcQBXcebqcv4
   web:
     build: ./content-web
